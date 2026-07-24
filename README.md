@@ -19,6 +19,8 @@ I'm currently developing **RUBY**, a platform that makes consumer-safety informa
 
 I'm currently seeking **software engineering internship opportunities**.
 
+**I love SPORTS! (specifically football/soccer 🇲🇦)**
+
 ## A few quick facts
 
 - Learning open-source development through the TrinoDB codebase
