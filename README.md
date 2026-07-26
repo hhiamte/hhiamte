@@ -5,7 +5,6 @@
 ### Computer Science student at Johns Hopkins University
 
 I build software focused on health, safety, and practical applications of intelligent systems.
-
 ## Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-hhiamte-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hhiamte)
@@ -82,6 +81,7 @@ I'm currently learning the architecture and contribution workflow of [TrinoDB](h
 
 
 ## GitHub activity
+![Profile views](https://komarev.com/ghpvc/?username=hhiamte&color=3d5f9d&style=flat-square)
 
 <p align="center">
   <img
